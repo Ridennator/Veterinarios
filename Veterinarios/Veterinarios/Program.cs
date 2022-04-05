@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Veterinarios.Data;
+using Vets.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

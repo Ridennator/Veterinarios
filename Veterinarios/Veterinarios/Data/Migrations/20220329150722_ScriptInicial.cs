@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Veterinarios.Data.Migrations
+namespace Vets.Data.Migrations
 {
     public partial class ScriptInicial : Migration
     {

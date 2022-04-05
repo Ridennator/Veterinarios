@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Veterinarios.Data;
+using Vets.Data;
 
 #nullable disable
 
-namespace Veterinarios.Data.Migrations
+namespace Vets.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20220329150722_ScriptInicial")]

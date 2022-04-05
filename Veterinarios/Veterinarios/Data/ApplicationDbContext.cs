@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Veterinarios.Models;
+using Vets.Models;
 
-namespace Veterinarios.Data
+namespace Vets.Data
 {
     /// <summary>
     /// esta classe funciona comom a base de dados do nosso projecto

@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Veterinarios.Data;
-using Veterinarios.Models;
+using Vets.Data;
+using Vets.Models;
 
-namespace Veterinarios.Controllers
+namespace Vets.Controllers
 {
     public class DonosController : Controller
     {
